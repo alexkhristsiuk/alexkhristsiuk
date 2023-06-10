@@ -14,9 +14,6 @@
 <h3><a href="https://camo.githubusercontent.com/7cc1058944917e6c38254831770b62bac9e0668bece75cebda4c01c4a10106b2/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f6e756c6c2f68746d6c2d352d2d76312e706e67"><img src="https://camo.githubusercontent.com/7cc1058944917e6c38254831770b62bac9e0668bece75cebda4c01c4a10106b2/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f6e756c6c2f68746d6c2d352d2d76312e706e67" data-canonical-src="https://img.icons8.com/color/48/null/html-5--v1.png" style="max-width: 100%;"></a>
 <a href="https://camo.githubusercontent.com/251a92d498ead3da304b0e64995e838d3725c15efc41f726db717c6f0af29c0a/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f6e756c6c2f637373332e706e67"><img src="https://camo.githubusercontent.com/251a92d498ead3da304b0e64995e838d3725c15efc41f726db717c6f0af29c0a/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f6e756c6c2f637373332e706e67" data-canonical-src="https://img.icons8.com/fluency/48/null/css3.png" style="max-width: 100%;"></a>
 <a href="https://camo.githubusercontent.com/cc1405e5daa0860b9d94a6d101479031c9e6b3c5ab1b384e5f3c4957ccec8163/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f6e756c6c2f6a6176617363726970742d2d76312e706e67"><img src="https://camo.githubusercontent.com/cc1405e5daa0860b9d94a6d101479031c9e6b3c5ab1b384e5f3c4957ccec8163/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f6e756c6c2f6a6176617363726970742d2d76312e706e67" data-canonical-src="https://img.icons8.com/color/48/null/javascript--v1.png" style="max-width: 100%;"></a>
-  
-![image](https://github.com/alexkhristsiuk/alexkhristsiuk/assets/126060763/9f46766f-d11e-42e1-acdd-613356fa35d7)
-
 <a href="#"><img src=></a>
 </h3>
 <h3>Tools:</h3>
