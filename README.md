@@ -2,17 +2,18 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=26&amp;duration=3000&amp;pause=8000&amp;width=435&amp;lines=%F0%9D%94%BD%F0%9D%95%A3%F0%9D%95%A0%F0%9D%95%9F%F0%9D%95%A5-%F0%9D%94%BC%F0%9D%95%9F%F0%9D%95%95+%F0%9D%95%8A%F0%9D%95%A0%F0%9D%95%97%F0%9D%95%A5%F0%9D%95%A8%F0%9D%95%92%F0%9D%95%A3%F0%9D%95%96+%F0%9D%94%BC%F0%9D%95%9F%F0%9D%95%98%F0%9D%95%9A%F0%9D%95%9F%F0%9D%95%96%F0%9D%95%96%F0%9D%95%A3" style="max-width: 100%; alt="Typing SVG" /></a></h3>
   
-[![codewars](https://www.codewars.com/users/alexkhristsiuk/badges/small)]((https://www.codewars.com/users/alexkhristsiuk)
+[![codewars](https://www.codewars.com/users/alexkhristsiuk/badges/small)
   
 <ul>
   <li>🚀 I’m currently learning <code>React</code>, <code>TS</code>, <code>web</code></li>
-  <li>📫 How to reach me: <a href="mailto:manlain1231@gmail.com">manlain1231@gmail.com</a></li>
   <li>🌍 I speak Russian (native), English (A2)</li>
+  <li>📫 How to reach me: <a href="mailto:manlain1231@gmail.com">manlain1231@gmail.com</a></li>
 </ul>
 <h3>Languages:</h3>
 <h3><a href="https://camo.githubusercontent.com/7cc1058944917e6c38254831770b62bac9e0668bece75cebda4c01c4a10106b2/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f6e756c6c2f68746d6c2d352d2d76312e706e67"><img src="https://camo.githubusercontent.com/7cc1058944917e6c38254831770b62bac9e0668bece75cebda4c01c4a10106b2/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f6e756c6c2f68746d6c2d352d2d76312e706e67" data-canonical-src="https://img.icons8.com/color/48/null/html-5--v1.png" style="max-width: 100%;"></a>
 <a href="https://camo.githubusercontent.com/251a92d498ead3da304b0e64995e838d3725c15efc41f726db717c6f0af29c0a/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f6e756c6c2f637373332e706e67"><img src="https://camo.githubusercontent.com/251a92d498ead3da304b0e64995e838d3725c15efc41f726db717c6f0af29c0a/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f6e756c6c2f637373332e706e67" data-canonical-src="https://img.icons8.com/fluency/48/null/css3.png" style="max-width: 100%;"></a>
 <a href="https://camo.githubusercontent.com/cc1405e5daa0860b9d94a6d101479031c9e6b3c5ab1b384e5f3c4957ccec8163/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f6e756c6c2f6a6176617363726970742d2d76312e706e67"><img src="https://camo.githubusercontent.com/cc1405e5daa0860b9d94a6d101479031c9e6b3c5ab1b384e5f3c4957ccec8163/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f6e756c6c2f6a6176617363726970742d2d76312e706e67" data-canonical-src="https://img.icons8.com/color/48/null/javascript--v1.png" style="max-width: 100%;"></a>
+<a href="https://cdnlogo.com/logo/react_39944.html"><img src="https://cdn.cdnlogo.com/logos/r/85/react.svg"></a>
 </h3>
 <h3>Tools:</h3>
 <h3 <a href="https://camo.githubusercontent.com/aed3c8c4c32430805e6fc32f5a2c102f3b1680c68929b9bdedaead589b3c31a2/68747470733a2f2f696d672e69636f6e73382e636f6d2f65787465726e616c2d74616c2d72657669766f2d636f6c6f722d74616c2d72657669766f2f34382f6e756c6c2f65787465726e616c2d72656163742d612d6a6176617363726970742d6c6962726172792d666f722d6275696c64696e672d757365722d696e74657266616365732d6c6f676f2d636f6c6f722d74616c2d72657669766f2e706e67"><img src="https://camo.githubusercontent.com/aed3c8c4c32430805e6fc32f5a2c102f3b1680c68929b9bdedaead589b3c31a2/68747470733a2f2f696d672e69636f6e73382e636f6d2f65787465726e616c2d74616c2d72657669766f2d636f6c6f722d74616c2d72657669766f2f34382f6e756c6c2f65787465726e616c2d72656163742d612d6a6176617363726970742d6c6962726172792d666f722d6275696c64696e672d757365722d696e74657266616365732d6c6f676f2d636f6c6f722d74616c2d72657669766f2e706e67" data-canonical-src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" style="max-width: 100%;"></a>
