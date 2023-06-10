@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href=# target="_blank">Alexandr</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp&weight=500&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Front-End+Software+Engineer" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=26&amp;duration=2000&amp;pause=10000&amp;width=435&amp;lines=%F0%9D%94%BD%F0%9D%95%A3%F0%9D%95%A0%F0%9D%95%9F%F0%9D%95%A5-%F0%9D%94%BC%F0%9D%95%9F%F0%9D%95%95+%F0%9D%95%8A%F0%9D%95%A0%F0%9D%95%97%F0%9D%95%A5%F0%9D%95%A8%F0%9D%95%92%F0%9D%95%A3%F0%9D%95%96+%F0%9D%94%BC%F0%9D%95%9F%F0%9D%95%98%F0%9D%95%9A%F0%9D%95%9F%F0%9D%95%96%F0%9D%95%96%F0%9D%95%A3" style="max-width: 100%; alt="Typing SVG" /></a></h3>
 
 <!--
 **alexkhristsiuk/alexkhristsiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
