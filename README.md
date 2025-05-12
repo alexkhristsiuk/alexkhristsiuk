@@ -8,9 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.codewars.com/users/alexkhristsiuk">
-    <img src="https://www.codewars.com/users/alexkhristsiuk/badges/small" alt="Codewars Badge"/>
-  </a>
+ [![Codewars](https://img.shields.io/badge/Codewars-alexkhristsiuk-red?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/alexkhristsiuk)
 </p>
 
 ---
