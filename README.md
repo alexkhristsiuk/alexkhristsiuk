@@ -5,7 +5,7 @@
 ![codewars](https://www.codewars.com/users/alexkhristsiuk/badges/large)
   
 <ul>
-  <li>🚀 I’m currently learning <code>React</code>, <code>TS</code>, <code>web</code></li>
+  <li>🚀 I’m frontend engineer>
   <li>🌍 I speak Russian (native), English (A2)</li>
   <li>📫 How to reach me: <a href="mailto:manlain1231@gmail.com">manlain1231@gmail.com</a></li>
 </ul>
