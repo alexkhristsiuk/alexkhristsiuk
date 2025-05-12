@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=26&amp;duration=3000&amp;pause=8000&amp;width=435&amp;lines=%F0%9D%94%BD%F0%9D%95%A3%F0%9D%95%A0%F0%9D%95%9F%F0%9D%95%A5-%F0%9D%94%BC%F0%9D%95%9F%F0%9D%95%95+%F0%9D%95%8A%F0%9D%95%A0%F0%9D%95%97%F0%9D%95%A5%F0%9D%95%A8%F0%9D%95%92%F0%9D%95%A3%F0%9D%95%96+%F0%9D%94%BC%F0%9D%95%9F%F0%9D%95%98%F0%9D%95%9A%F0%9D%95%9F%F0%9D%95%96%F0%9D%95%96%F0%9D%95%A3" style="max-width: 100%; alt="Typing SVG" /></a></h3>
   
-![codewars](https://www.codewars.com/users/alexkhristsiuk/badges/small)
+![codewars](https://www.codewars.com/users/alexkhristsiuk/badges/large)
   
 <ul>
   <li>🚀 I’m frontend engineer>
